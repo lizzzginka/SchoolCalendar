@@ -1,0 +1,7 @@
+<resources>
+    <!-- Другие строки -->
+    <string name="app_name">ToDo List</string>
+
+    <!-- Добавим строку для описания кнопки добавления урока -->
+    <string name="add_lesson">Добавить урок</string>
+</resources>
